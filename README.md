@@ -25,9 +25,10 @@
 
 ## Мои технологии:
 
-- Языки: Go, Dart, ActionScript
-- Инструменты: Docker, Git, REST API
-- Базы данных: SQLite, PostgeSQL
+- Языки: Go, Dart, SQL
+- Инструменты: Docker, Git, GitHub Actions, CI/CD
+- Базы данных: SQLite, PostgreSQL
+- HTTP, RestAPI
 
 ---
 
