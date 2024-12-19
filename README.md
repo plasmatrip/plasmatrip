@@ -26,8 +26,8 @@
 ## Мои технологии:
 
 - Языки: Go, Dart, SQL
-- Инструменты: Docker, Git, GitHub Actions, CI/CD
-- Базы данных: SQLite, PostgreSQL
+- Инструменты: Firebase, Docker, Git, GitHub Actions, CI/CD
+- Базы данных: SQLite, PostgreSQL, MySQL
 - HTTP, RestAPI
 
 ---
