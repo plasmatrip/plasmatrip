@@ -10,11 +10,6 @@
 
 ## Мои технологии:
 
-- Языки: Go, Dart, SQL
-- Инструменты: Firebase, Docker, Git, GitHub Actions, CI/CD
-- Базы данных: SQLite, PostgreSQL, MySQL
-- HTTP, RestAPI
-
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="HTTP" title="HTTP"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" title="REST"/></code>
