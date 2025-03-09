@@ -1,12 +1,8 @@
-# Привет! Я Антон (plasmatrip) 👋
+# 👋 Hey there!
 
-## Обо мне
+I'm a Go developer who loves building web services and making things work smoothly behind the scenes. I’m all about clean code, solid architectures, and solving real-world problems. Always up for a good challenge and happy to collaborate on cool projects! 🚀
 
-Я разработчик на Go с опытом создания веб-серверов, реализации алгоритмов, и работы с различными технологиями. В моем профиле на GitHub можно найти проекты, связанные с Go, Dart, и другими языками программирования.
-
-- 📫 Связаться со мной можно в [Telegram](https://t.me/plasma_trip).
-
-## Мои технологии:
+## I code with
 
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="HTTP" title="HTTP"/></code>
@@ -31,7 +27,5 @@
 </div>
 
 ---
-
-## Статистика GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=plasmatrip&show_icons=true&theme=radical)
